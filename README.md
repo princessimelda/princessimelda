@@ -1,6 +1,7 @@
-## Hi there 👋
+## Heyy 👋😊
 
 <!--
+- 🤗 Yes, my name is actually Princess.
 - 📚 I'm a student at Strathmore University studying Computer Science.
 - 💓 I'm passionate about business and data.
 - 💪🏽 Currently working towards becoming a "data angel" - my way of saying that I want to master the art of
