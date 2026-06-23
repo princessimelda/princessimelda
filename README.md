@@ -23,7 +23,6 @@ I am a Computer Scientist by training and an aspiring Machine Learning Engineer.
 ---
 
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princessimelda&show_icons=true&hide_border=true&bg_color=ffd1dc&title_color=000000&icon_color=ffb6c1&text_color=000000" alt="GitHub Stats" />
