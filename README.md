@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,50:ffb6c1,100:dda0dd&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data+Analyst+%7C+Computer+Scientist&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,50:ffb6c1,100:dda0dd&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=1c2541&fontAlignY=38&desc=Data+Analyst+%7C+Computer+Scientist&descAlignY=58&descColor=1c2541&animation=fadeIn" />
 </p>
 
 # Hi there, I'm Princess Imelda Odato 👋
