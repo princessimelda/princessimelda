@@ -31,7 +31,7 @@ I am a Computer Scientist by training and an aspiring Machine Learning Engineer.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princessimelda&layout=compact&hide_border=true&bg_color=ffd1dc&title_color=000000&text_color=000000" alt="Top Languages" />
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princessimelda&bg_color=ffd1dc&color=ffb6c1&line=dda0dd&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princessimelda&bg_color=ffd1dc&color=2f3e46&line=1c2541&point=1c2541&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
 
